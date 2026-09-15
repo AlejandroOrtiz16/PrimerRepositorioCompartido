@@ -1,0 +1,2 @@
+Nombre                          | Correo                                    | Usuario de GitHub
+Jesus Alejandro Velazquez Ortiz | 2024310033@uteq.edu.mx                    | AlejandroOrtiz16
