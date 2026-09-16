@@ -2,3 +2,4 @@ Nombre                          | Correo                                    | Us
 Jesus Alejandro Velazquez Ortiz | 2024310033@uteq.edu.mx                    | AlejandroOrtiz16
 Sandro Moya Arvizu              | 2024310227@uteq.edu.mx                    | SandroM17
 Jorge Luis Bocanegra Frías      | 2024310243@uteq.edu.mx                    | JorgeLuis332
+Anselmo Ramírez Hernández       | anselmoramirez016@gmail.com               | anselmo_rh
